@@ -33,7 +33,7 @@ https://mediavisor.doubleclick.net
 #URL Filters
 
 #Ads ====================
-# Google Ads
+#Google Ads
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 ads.google.com
@@ -62,8 +62,8 @@ https://mediavisor.doubleclick.net
 0.0.0.0 amazonaax.com
 0.0.0.0 amazonclix.com
 0.0.0.0 assoc-amazon.com
-#Analytics ====================
-# Yahoo
+##Analytics ====================
+#Yahoo
 0.0.0.0 ads.yahoo.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 global.adserver.yahoo.com
@@ -97,7 +97,7 @@ https://mediavisor.doubleclick.net
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 partnerads.ysm.yahoo.com
-# Yandex
+#Yandex
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 redirect.appmetrica.yandex.com
 0.0.0.0 19534.redirect.appmetrica.yandex.com
@@ -176,7 +176,7 @@ https://mediavisor.doubleclick.net
 0.0.0.0 rereddit.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 d.reddit.com
-# TikTok
+#TikTok
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 ads.tiktok.com
