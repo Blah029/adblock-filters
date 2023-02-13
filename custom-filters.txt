@@ -62,7 +62,7 @@ https://mediavisor.doubleclick.net
 0.0.0.0 amazonaax.com
 0.0.0.0 amazonclix.com
 0.0.0.0 assoc-amazon.com
-##Analytics ====================
+#Analytics ====================
 # Yahoo
 0.0.0.0 ads.yahoo.com
 0.0.0.0 adserver.yahoo.com
