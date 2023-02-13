@@ -62,7 +62,7 @@ advertising-api-eu.amazon.com
 amazonaax.com
 amazonclix.com
 assoc-amazon.com
-##Analytics ====================
+#Analytics ====================
 #Yahoo
 ads.yahoo.com
 adserver.yahoo.com
@@ -151,7 +151,7 @@ cs.luckyorange.net
 settings.luckyorange.net
 #Stats WP Plugin
 stats.wp.com
-##Social ====================
+#Social ====================
 #Facebook
 pixel.facebook.com
 analytics.facebook.com
@@ -183,7 +183,7 @@ ads.tiktok.com
 analytics.tiktok.com
 #YouTube
 ads.youtube.com
-##OEM ====================
+#OEM ====================
 #Realme
 bdapi-in-ads.realmemobile.com
 #OPPO
@@ -227,7 +227,7 @@ logbak.hicloud.com
 #Samsung
 ad.samsungadhub.com
 samsungadhub.com
-samsungads.com
+samsungads.com0.0.0.0 
 smetrics.samsung.com
 nmetrics.samsung.com
 samsung-com.112.2o7.net
