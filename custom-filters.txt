@@ -15,7 +15,7 @@ genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(4) > div.
 genshin-center.com##.Farm_listWrapper__RXUDB > .units_mpuWrapper__zvg0I
 genshin-center.com##.Farm_stickyBar__85QIF.Farm_sideBar__yXGVR > .units_mpuWrapper__zvg0I
 newgrounds.com###outer-skin > div.body-main:nth-child(5) > div.body-center > div > div.body-guts.top > div.header-deck:nth-child(2) > div.inhousepromo > a > img
-! pixiv.net##.cRPGXW.sc-1p2gd44-7
+pixiv.net###root > div.charcoal-token:last-child > div > div.sc-1nr368f-2.kBWrTb:nth-child(2) > div.sc-jgyytr-1:nth-child(4) > div.sc-1nr368f-4.iClkCH
 seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div > div.mx-auto.bg-gray-700.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:nth-child(2)
 seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div.text-white > div.mt-4:last-child > div.mx-auto.bg-gray-700.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:nth-child(3)
 seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div.text-white > div.mx-auto.bg-gray-700.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:nth-child(5)
