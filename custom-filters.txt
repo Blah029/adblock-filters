@@ -43,6 +43,8 @@ pagead2.googlesyndication.com
 ! Analytics ==============
 ! Googel Analytics
 app-measurement.com
+analytics.google.com
+click.googleanalytics.com
 ! Social Trackers ========
 ! TikTok
 ads.tiktok.com
@@ -58,6 +60,7 @@ ads.youtube.com
 udc.yahoo.com
 udcm.yahoo.com
 analytics.query.yahoo.com
+partnerads.ysm.yahoo.com
 log.fc.yahoo.com
 gemini.yahoo.com
 ! Unity
@@ -76,6 +79,10 @@ offerwall.yandex.net
 iot-eu-logser.realme.com
 iot-logser.realme.com
 bdapi-in-ads.realmemobile.com
+! Oppo
+adsfs.oppomobile.com
+ck.ads.oppomobile.com
+data.ads.oppomobile.com
 ! Apple
 advertising.apple.com
 tr.iadsdk.apple.com
