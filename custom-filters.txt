@@ -27,31 +27,57 @@ vedantu.com###ai-widget-on-category-page > div.CourseSticky_stickyButtonWrapper_
 ! URL Filters
 
 ! Ads ====================
-! Google Ads
-adservice.google.com
-pagead2.googleadservices.com
+! Amazon
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+advertising-api-eu.amazon.com
 ! Doubleclick.net
-doubleclick.net
+stats.g.doubleclick.net
 ad.doubleclick.net
 static.doubleclick.net
 m.doubleclick.net
 mediavisor.doubleclick.net
-! Amazon
-analyticsengine.s3.amazonaws.com
-advice-ads.s3.amazonaws.com
-affiliationjs.s3.amazonaws.com
-advertising-api-eu.amazon.com
-amazonaax.com
-amazonclix.com
-! Social ====================
-! Facebook
-ads.facebook.com
+! Google Ads
+pagead2.googlesyndication.com
+! Analytics ==============
+! Googel Analytics
+app-measurement.com
+! Social Trackers ========
+! TikTok
+ads.tiktok.com
 ! Twitter
 ads-api.twitter.com
-! Pinterest
+! Printerest
 ads.pinterest.com
 widgets.pinterest.com
-! Reddit
-ads.reddit.com
-! YouTube
+! Youtube
 ads.youtube.com
+! Mix ====================
+! Yahoo
+udc.yahoo.com
+udcm.yahoo.com
+analytics.query.yahoo.com
+log.fc.yahoo.com
+gemini.yahoo.com
+! Unity
+auction.unityads.unity3d.com
+webview.unityads.unity3d.com
+config.unityads.unity3d.com
+adserver.unityads.unity3d.com
+! Yandex
+appmetrica.yandex.ru
+adfstat.yandex.ru
+metrika.yandex.ru
+advertising.yandex.ru
+offerwall.yandex.net
+! OEMs ===================
+! Realme
+iot-eu-logser.realme.com
+iot-logser.realme.com
+bdapi-in-ads.realmemobile.com
+! Apple
+advertising.apple.com
+tr.iadsdk.apple.com
+! Huawei
+grs.hicloud.com
