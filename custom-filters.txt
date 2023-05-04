@@ -1,3 +1,7 @@
+! Exceptions
+
+@@icloud.com    
+
 ! Element filters
 
 en.loader.to###ff_addon > a > div.extension.js-extension.is-rolledUp > div.extension-header
