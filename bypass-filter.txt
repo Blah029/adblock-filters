@@ -1,0 +1,4 @@
+! URL Exceptions
+
+@@127.0.0.1*$domain=www.intel.com
+@@icloud.com

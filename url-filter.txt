@@ -1,7 +1,3 @@
-! URL Exceptions
-
-@@icloud.com    
-
 ! URL Filters
 
 ! Ads ====================
