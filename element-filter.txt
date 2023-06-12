@@ -1,5 +1,6 @@
 ! Element filters
 
+analyticsvidhya.com###side-upper-banner > a.utm_image_link > img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image
 en.loader.to###ff_addon > a > div.extension.js-extension.is-rolledUp > div.extension-header
 en.loader.to##div.container:nth-child(2) > div.row > div.center.col-sm-12.col-md-9.col-lg-8.card > div.text-center:nth-child(6) > a > img
 en.loader.to##div.text-center:nth-child(3) > a > img
@@ -14,6 +15,7 @@ genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(4) > div.
 genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(4) > div.Farm_farm__uhRH4:first-child > div.Farm_divider__XPwtq:last-child > div.Farm_content__AgSzr > div.Farm_listWrapper__RXUDB:last-child > div.units_lb1Wrapper__0Zd2d:nth-child(2)
 genshin-center.com##.Farm_listWrapper__RXUDB > .units_mpuWrapper__zvg0I
 genshin-center.com##.Farm_stickyBar__85QIF.Farm_sideBar__yXGVR > .units_mpuWrapper__zvg0I
+kotakgame.com###slidebox
 newgrounds.com###outer-skin > div.body-main:nth-child(5) > div.body-center > div > div.body-guts.top > div.header-deck:nth-child(2) > div.inhousepromo > a > img
 seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div > div.mx-auto.bg-gray-700.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:nth-child(2)
 seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div.text-white > div.mt-4:last-child > div.mx-auto.bg-gray-700.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:nth-child(3)
@@ -22,4 +24,5 @@ softwarekeep.com###I0_1639888298916
 softwarekeep.com###_GUARANTEE_SealSpan_frame
 softwarekeep.com###__next > div.main-content:nth-child(2) > div > section.help-center-article-page:first-child > div.article-container:last-child > div.left-side:first-child > section.help-center-left-banner:last-child > a > div > img:last-child
 techpowerup.com##div.xaupryrbfrs:first-child > div.aupryragwxhwxadyzr:nth-child(3) > div:last-child > div:first-child > a > span > img
+twitter.com###layers > div.css-1dbjc4n.r-aqfbo4.r-1p0dtai.r-1d2f490.r-12vffkv.r-1xcajam.r-zchlnj > div.css-1dbjc4n.r-12vffkv:first-child > div.css-1dbjc4n.r-12vffkv > div.css-1dbjc4n.r-l5o3uw.r-1upvrn0
 vedantu.com###ai-widget-on-category-page > div.CourseSticky_stickyButtonWrapper__16JwC:last-child > div.CourseSticky_stickyButton__KzE2W
