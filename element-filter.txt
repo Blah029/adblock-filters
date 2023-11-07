@@ -27,7 +27,16 @@ softwarekeep.com###__next > div.main-content:nth-child(2) > div > section.help-c
 techpowerup.com##div.xaupryrbfrs:first-child > div.aupryragwxhwxadyzr:nth-child(3) > div:last-child > div:first-child > a > span > img
 twitter.com###layers > div.css-1dbjc4n.r-aqfbo4.r-1p0dtai.r-1d2f490.r-12vffkv.r-1xcajam.r-zchlnj > div.css-1dbjc4n.r-12vffkv:first-child > div.css-1dbjc4n.r-12vffkv > div.css-1dbjc4n.r-l5o3uw.r-1upvrn0
 vedantu.com###ai-widget-on-category-page > div.CourseSticky_stickyButtonWrapper__16JwC:last-child > div.CourseSticky_stickyButton__KzE2W
+
+! YouTube anti-adblock v1
+
 youtube.com##+js(set,yt.config_.openPopupConfig.supported Popups.adBlockMessageViewModel, false)
 youtube.com##+js(set,Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set,ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set,Object.prototype.hasAllowedInstreamAd, true)
+
+! YouTube anti-adblock v2
+
+youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.enforcementMessageViewModel)
+youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.enforcementMessageViewModel, undefined)
+youtube.com#$##cinematics.ytd-watch-flexy{display:none}
