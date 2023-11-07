@@ -30,13 +30,13 @@ vedantu.com###ai-widget-on-category-page > div.CourseSticky_stickyButtonWrapper_
 
 ! YouTube anti-adblock v1
 
-! youtube.com##+js(set,yt.config_.openPopupConfig.supported Popups.adBlockMessageViewModel, false)
-! youtube.com##+js(set,Object.prototype.adBlocksFound, 0)
-! youtube.com##+js(set,ytplayer.config.args.raw_player_response.adPlacements, [])
-! youtube.com##+js(set,Object.prototype.hasAllowedInstreamAd, true)
+!youtube.com##+js(set,yt.config_.openPopupConfig.supported Popups.adBlockMessageViewModel, false)
+!youtube.com##+js(set,Object.prototype.adBlocksFound, 0)
+!youtube.com##+js(set,ytplayer.config.args.raw_player_response.adPlacements, [])
+!youtube.com##+js(set,Object.prototype.hasAllowedInstreamAd, true)
 
 ! YouTube anti-adblock v2
 
-! youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.enforcementMessageViewModel)
-! youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.enforcementMessageViewModel, undefined)
-! youtube.com#$##cinematics.ytd-watch-flexy{display:none}
+!youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.enforcementMessageViewModel)
+!youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.enforcementMessageViewModel, undefined)
+!youtube.com#$##cinematics.ytd-watch-flexy{display:none}
