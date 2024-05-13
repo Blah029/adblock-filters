@@ -11,6 +11,7 @@ fragstrat.com##.sticky_bottom
 frzyc.github.io##div.css-w7i41u.MuiBox-root:nth-of-type(1)
 frzyc.github.io##div.css-1ynyhby.MuiBox-root:nth-of-type(2)
 frzyc.github.io##div.css-w7i41u.MuiBox-root:nth-of-type(3)
+frzyc.github.io##div.css-1ynyhby.MuiBox-root:nth-of-type(5)
 gadgets.ndtv.com###jsw-iframe
 geeksforgeeks.org##div.shell:nth-child(14) > div.shell-container.show
 geeksforgeeks.org##div.shell:nth-child(15) > div.shell-container.show
