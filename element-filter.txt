@@ -8,6 +8,7 @@ flvto.biz###__next > div.layout.lng-en:nth-child(2) > a.browser-plugin.hidden-mo
 flvto.biz###__next > div.layout.lng-en:nth-child(2) > a.browser-plugin.hidden-mobile:nth-child(2)
 flvto.biz###__next > div.layout.lng-en:nth-child(2) > div.fl-yt-banner:nth-child(4) > div.fl-yt-banner__container
 fragstrat.com##.sticky_bottom
+frzyc.github.io##.go-ad-wrapper
 gadgets.ndtv.com###jsw-iframe
 geeksforgeeks.org##div.shell:nth-child(14) > div.shell-container.show
 geeksforgeeks.org##div.shell:nth-child(15) > div.shell-container.show
