@@ -8,6 +8,9 @@ flvto.biz###__next > div.layout.lng-en:nth-child(2) > a.browser-plugin.hidden-mo
 flvto.biz###__next > div.layout.lng-en:nth-child(2) > a.browser-plugin.hidden-mobile:nth-child(2)
 flvto.biz###__next > div.layout.lng-en:nth-child(2) > div.fl-yt-banner:nth-child(4) > div.fl-yt-banner__container
 fragstrat.com##.sticky_bottom
+frzyc.github.io##div.css-w7i41u.MuiBox-root:nth-of-type(1)
+frzyc.github.io##div.css-1ynyhby.MuiBox-root:nth-of-type(2)
+frzyc.github.io##div.css-w7i41u.MuiBox-root:nth-of-type(3)
 gadgets.ndtv.com###jsw-iframe
 geeksforgeeks.org##div.shell:nth-child(14) > div.shell-container.show
 geeksforgeeks.org##div.shell:nth-child(15) > div.shell-container.show
@@ -18,6 +21,7 @@ genshin-center.com##.Farm_listWrapper__RXUDB > .units_mpuWrapper__zvg0I
 genshin-center.com##.Farm_stickyBar__85QIF.Farm_sideBar__yXGVR > .units_mpuWrapper__zvg0I
 kotakgame.com###slidebox
 newgrounds.com###outer-skin > div.body-main:nth-child(5) > div.body-center > div > div.body-guts.top > div.header-deck:nth-child(2) > div.inhousepromo > a > img
+nexusmods.com###mainContent > div.clearfix
 reddit.com##shreddit-app.overflow-x-hidden.xs\:overflow-visible.v2.pt-\[var\(--page-y-padding\)\]:nth-child(3) > shreddit-async-loader.theme-beta:nth-child(15) > xpromo-nsfw-blocking-modal
 seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div > div.mx-auto.bg-gray-700.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:nth-child(2)
 seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div.text-white > div.mt-4:last-child > div.mx-auto.bg-gray-700.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:nth-child(3)
