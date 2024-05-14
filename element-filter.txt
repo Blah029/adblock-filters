@@ -17,6 +17,7 @@ genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(4) > div.
 genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(4) > div.Farm_farm__uhRH4:first-child > div.Farm_divider__XPwtq:last-child > div.Farm_content__AgSzr > div.Farm_listWrapper__RXUDB:last-child > div.units_lb1Wrapper__0Zd2d:nth-child(2)
 genshin-center.com##.Farm_listWrapper__RXUDB > .units_mpuWrapper__zvg0I
 genshin-center.com##.Farm_stickyBar__85QIF.Farm_sideBar__yXGVR > .units_mpuWrapper__zvg0I
+genshin-impact-map.appsample.com##.MapLayout_Rightbar
 kotakgame.com###slidebox
 newgrounds.com###outer-skin > div.body-main:nth-child(5) > div.body-center > div > div.body-guts.top > div.header-deck:nth-child(2) > div.inhousepromo > a > img
 nexusmods.com###mainContent > div.clearfix
