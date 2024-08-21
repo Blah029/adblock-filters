@@ -1,6 +1,7 @@
 ! Element filters
 
 analyticsvidhya.com###side-upper-banner > a.utm_image_link > img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image
+colonist.io##.main_container_block_ads_included
 en.loader.to###ff_addon > a > div.extension.js-extension.is-rolledUp > div.extension-header
 en.loader.to##div.container:nth-child(2) > div.row > div.center.col-sm-12.col-md-9.col-lg-8.card > div.text-center:nth-child(6) > a > img
 en.loader.to##div.text-center:nth-child(3) > a > img
