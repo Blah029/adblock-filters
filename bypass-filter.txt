@@ -2,4 +2,5 @@
 
 @@127.0.0.1*$domain=www.intel.com
 @@curtin.edu.au
+@@curtin-web.t1cloud.com
 @@icloud.com
