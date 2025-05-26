@@ -49,7 +49,7 @@ vedantu.com###ai-widget-on-category-page > div.CourseSticky_stickyButtonWrapper_
 
 ! Youtube thumbnail size
 
-youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)+
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-items-per-row: 5 !important;)
 youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-posts-per-row: 5 !important;)
 youtube.com##ytd-rich-grid-media #video-title:style(font-size: 14px !important;)
