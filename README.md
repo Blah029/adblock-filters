@@ -2,7 +2,7 @@
 
 Filter rules for ad blocking
 
-- bypass-filter.txt
+- whitelist.txt
   - URL whitelist
 - element-filter.txt
   - Cosmetic filter rules
