@@ -2,6 +2,7 @@
 
 analyticsvidhya.com###side-upper-banner > a.utm_image_link > img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image
 colonist.io##.main_container_block_ads_included
+duckduckgo.com##.js-logo-ddg.header__logo
 en.loader.to###ff_addon > a > div.extension.js-extension.is-rolledUp > div.extension-header
 en.loader.to##div.container:nth-child(2) > div.row > div.center.col-sm-12.col-md-9.col-lg-8.card > div.text-center:nth-child(6) > a > img
 en.loader.to##div.text-center:nth-child(3) > a > img
@@ -26,8 +27,9 @@ kotakgame.com###slidebox
 newgrounds.com###outer-skin > div.body-main:nth-child(5) > div.body-center > div > div.body-guts.top > div.header-deck:nth-child(2) > div.inhousepromo > a > img
 nexusmods.com###mainContent > div.clearfix
 www.prydwen.gg###pw-header-ad-1
-www.prydwen.gg##.trains.promo-special-banner
 www.prydwen.gg##.bigger.pw-content-placeholder
+www.prydwen.gg##.etheria.promo-special-banner
+www.prydwen.gg##.trains.promo-special-banner
 www.prydwen.gg##.with-margin-bottom.pw-content-placeholder
 www.prydwen.gg##.with-margin.promo-top
 reddit.com##shreddit-app.overflow-x-hidden.xs\:overflow-visible.v2.pt-\[var\(--page-y-padding\)\]:nth-child(3) > shreddit-async-loader.theme-beta:nth-child(15) > xpromo-nsfw-blocking-modal
