@@ -28,8 +28,9 @@ newgrounds.com###outer-skin > div.body-main:nth-child(5) > div.body-center > div
 nexusmods.com###mainContent > div.clearfix
 www.prydwen.gg###pw-header-ad-1
 www.prydwen.gg##.bigger.pw-content-placeholder
-www.prydwen.gg##.etheria.promo-special-banner
-www.prydwen.gg##.trains.promo-special-banner
+www.prydwen.gg##.promo-special-banner
+!www.prydwen.gg##.etheria.promo-special-banner
+!www.prydwen.gg##.trains.promo-special-banner
 www.prydwen.gg##.with-margin-bottom.pw-content-placeholder
 www.prydwen.gg##.with-margin.promo-top
 reddit.com##shreddit-app.overflow-x-hidden.xs\:overflow-visible.v2.pt-\[var\(--page-y-padding\)\]:nth-child(3) > shreddit-async-loader.theme-beta:nth-child(15) > xpromo-nsfw-blocking-modal
